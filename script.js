@@ -1,0 +1,1 @@
+window.alert("Este site é para o meu curso de Git e GitHub.")
